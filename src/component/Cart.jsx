@@ -48,7 +48,6 @@ function Cart() {
         }
     })
     setCart([...cart])
-
   }
 
   //delete item 
